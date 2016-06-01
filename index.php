@@ -32,6 +32,7 @@
   
   <!-- CUSTOM CSS --- THEME CSS -->
   <link rel="stylesheet" href="css/style.css">
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 </head>
 <body onload="prettyPrint()">
   <a href="#main" class="sg-visually-hidden sg-visually-hidden-focusable">Skip to main content</a>
@@ -148,13 +149,13 @@
             <h2 id="sg-fontStacks" class="sg-h2">Font Stacks</h2>
             <dl class="sg-font-list">
               <dt>Primary Font:</dt>
-              <dd style='font-family: "HelveticaNeue", Helvetica, Arial, sans-serif;'>"HelveticaNeue", Helvetica, Arial, sans-serif;</dd>
+              <dd style='font-family: "Lato", Helvetica, Arial, sans-serif;'>"HelveticaNeue", Helvetica, Arial, sans-serif;</dd>
 
               <dt>Primary Font Italic:</dt>
-              <dd style='font-family: "HelveticaNeue", Helvetica, Arial, sans-serif; font-style: italic;'>"HelveticaNeue", Helvetica, Arial, sans-serif;</dd>
+              <dd style='font-family: "Lato", Helvetica, Arial, sans-serif; font-style: italic;'>"HelveticaNeue", Helvetica, Arial, sans-serif;</dd>
 
               <dt>Primary Font Bold:</dt>
-              <dd style='font-family: "HelveticaNeue", Helvetica, Arial, sans-serif; font-weight: 800;'>"HelveticaNeue", Helvetica, Arial, sans-serif;</dd>
+              <dd style='font-family: "Lato", Helvetica, Arial, sans-serif; font-weight: 800;'>"HelveticaNeue", Helvetica, Arial, sans-serif;</dd>
 
               <dt>Secondary Font:</dt>
               <dd style='font-family: Georgia, Times, "Times New Roman", serif;'>Georgia, Times, "Times New Roman", serif;</dd>
